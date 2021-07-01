@@ -13,7 +13,7 @@ namespace ExampleDockerUbuntu.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello world, using docker in ubuntu";
+            return "Hello world, using docker in ubuntu 20.4";
         }
     }
 }
