@@ -1,6 +1,4 @@
-using System;
-
-namespace ExampleDockerUbuntu
+namespace WebApplication1
 {
     public class WeatherForecast
     {
